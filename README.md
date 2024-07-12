@@ -1,1 +1,1 @@
-# number-guess-game
+This repository contains the component files for the freeCodeCamp Number Guessing Game project: https://www.freecodecamp.org/learn/relational-database/build-a-number-guessing-game-project/build-a-number-guessing-game
